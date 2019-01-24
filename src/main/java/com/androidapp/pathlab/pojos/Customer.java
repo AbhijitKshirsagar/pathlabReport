@@ -1,4 +1,4 @@
-package com.androisapp.pathlab.pojos;
+package com.androidapp.pathlab.pojos;
 
 /**
  * 
